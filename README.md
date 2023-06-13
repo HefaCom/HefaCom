@@ -2,7 +2,7 @@
 - 👀 I’m interested in web deavelopment and data analytics.
 - 🌱 I’m currently learning data analytics in python and R.
 - 💞️ I’m looking to collaborate on web development for both front-end and back-end.
-- gaining knowlege everyday.
+- 📚 ♦️ gaining knowlege everyday.
 - 📫 email me: okokohhezron254@gmail.com. or Whatsapp @ +254707615535
 
 <!---
