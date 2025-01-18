@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hezron Ouma</h1>
-<h3 align="center">Versatile Academic Writer | Data Analyst | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Hezron Okoko</h1>
+<h3 align="center"> Versatile Writer | Data Analyst | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A9EEB&center=true&width=500&lines=Freelancer+Helping+Students+Excel;Turning+Data+Into+Actionable+Insights;Exploring+Tech%2C+Data%2C+and+AI+Trends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A9EEB&center=true&width=500&lines=Freelancer+Helping+Businesses+Excel;Turning+Data+Into+Actionable+Insights;Exploring+Tech%2C+Data%2C+and+AI+Trends" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 ---
 
 ### About Me
-- 🌟 **Freelance Services:** I specialize in academic writing, data analysis, programming, and tutoring.  
+- 🌟 **Freelance Services:** I specialize in technical writing, data analysis, programming, and tutoring.  
 - 💼 **Professional Expertise:** Business, finance, technology, sociology, psychology, nursing, and more.  
 - 📈 **Data Science:** Passionate about using Python, R, SPSS, and Tableau to extract insights from data.  
 - 💻 **Tech Projects:** Skilled in developing user-friendly websites, creating visual dashboards, and leveraging machine learning for real-world applications.  
