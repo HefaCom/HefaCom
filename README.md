@@ -2,7 +2,7 @@
 <h3 align="center"> Versatile Writer | Data Analyst | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A9EEB&center=true&width=500&lines=Freelancer+Helping+Businesses+Excel;Turning+Data+Into+Actionable+Insights;Exploring+Tech%2C+Data%2C+and+AI+Trends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A9EEB&center=true&width=500&lines=Freelancer+Helping+Businesses+Excel; Turning+Data+Into+Actionable+Insights;Exploring+Tech%2C+Data%2C+and+AI+Trends" alt="Typing SVG" />
 </p>
 
 ---
