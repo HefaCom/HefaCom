@@ -76,7 +76,7 @@
 - [Understanding Machine Learning Algorithms](https://nexus360.com/machine-learning-algorithms)  
 <!-- BLOG-POST-LIST:END -->  
 
-*Note: This section can be dynamically updated using GitHub Actions to fetch the latest posts from your blog.*
+
 
 ---
 
