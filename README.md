@@ -2,7 +2,7 @@
 <h3 align="center"> Data Analyst | BI Developer | Software Developer | Tech Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A9EEB&center=true&width=600&lines=Transforming+Data+Into+Business+Intelligence;Building+Scalable+Software+Solutions;Exploring+Tech%2C+Data%2C+AI%2C+and+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A9EEB&center=true&width=800&lines=Transforming+Data+Into+Business+Intelligence;Building+Scalable+Software+Solutions;Exploring+Tech%2C+Data%2C+AI%2C+and+Cybersecurity" alt="Typing SVG" />
 </p>
 
 ---
