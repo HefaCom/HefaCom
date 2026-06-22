@@ -200,7 +200,7 @@ Technology platform covering Artificial Intelligence, Data Analytics, Cybersecur
   <a href="https://twitter.com/_hezron__">
     <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
   </a>
-  <a href="https://nexus360.com">
+  <a href="https://bitworkske.com">
     <img src="https://img.shields.io/badge/Website-Visit-success?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
